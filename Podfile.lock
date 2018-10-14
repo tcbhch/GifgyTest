@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - AnimatedGIFImageSerialization (0.2.0)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AnimatedGIFImageSerialization
+  - SVPullToRefresh
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AnimatedGIFImageSerialization
+    - SVPullToRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  AnimatedGIFImageSerialization: b0f0cfe71eac1ee45a3d57ae533c23b8e6f29501
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+PODFILE CHECKSUM: 276efab8ae0e4bc8ef4faccee8ac8624cd7d738b
+
+COCOAPODS: 1.5.0
